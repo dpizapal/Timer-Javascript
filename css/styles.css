@@ -39,7 +39,8 @@ body {
     font-family: 'Roboto', sans-serif;
     text-align: center;
     text-shadow: -1px 0px 15px rgba(37,27,27,0.25);
-    border: none;
+    border: 1px solid black;
+    border-radius: 15%;
     color: lightgray;
     background-color: transparent;
 }
