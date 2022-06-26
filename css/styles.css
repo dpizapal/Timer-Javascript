@@ -16,7 +16,7 @@ body {
     align-items: center;
     height: 100%;
     font-family: 'Roboto', sans-serif;
-    background: linear-gradient(90seg, #00d2ff, #3a47d5 100% );
+    background: linear-gradient(90seg, #00d2ff, #3a47d5 100%);
 }
 
 .container {
