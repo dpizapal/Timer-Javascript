@@ -32,16 +32,25 @@ body {
     color: lightgray;
 }
 
+.header {
+    display: inline;
+    margin: 10px 10px;
+    font-size: 110px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: lightgray;
+}
 .number {
     display: inline-block;
     margin: 10px 10px;
+    padding-top: 5px;
     width: 140px;
     height: 140px;
     font-size: 110px;
     font-family: 'Roboto', sans-serif;
     text-align: center;
     text-shadow: -1px 0px 15px rgba(37,27,27,0.25);
-    border: 1px solid black;
+    border: 2px solid lightgray;
     border-radius: 15%;
     color: lightgray;
     background-color: transparent;
