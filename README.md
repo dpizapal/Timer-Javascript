@@ -1,29 +1,36 @@
-# TIMER
+## Descripción 🏝
 
-Timer with mp3 Alarm
+Este es un ejercicio para practicar, un timer que lleva una cuenta atrás y al llegar a 00:00 suena una alarma que nos avisa
 
+## Autor ✒️
 
+DAVID PIZARRO PALANCAR  
 
-## Tools
+## LinkedIn
+www.linkedin.com/in/david-pizarro-developer
 
-- Javascript
-- CSS
+## Ver ejemplo en vivo
 
+https://dpizapal.github.io/Timer-Javascript/
 
-## How to Run?
+## Instalación
 
-To run this project on your system, run
-
+Este proyecto no necesita de instalación.
 ```bash
   npm install
   npm start
 ```
 
-To create a build of this project, run
+## Contratación
 
-```bash
-  npm run build
-```
+Si quieres contratarme puedes escribirme a pizarro.developer@gmail.com para consultas
+
+
+## Herramientas
+
+- Javascript
+- CSS
+
 
 # Timer
-contains an audio .mp3 and two images .png
+contiene un audio .mp3 y dos imagénes .png
